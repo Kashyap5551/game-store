@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gamestore-prod-144118-authRole",
+            "UnauthRoleArn": "arn:aws:iam::533879925785:role/amplify-gamestore-prod-144118-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::533879925785:role/amplify-gamestore-prod-144118-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-gamestore-prod-144118-deployment",
+            "UnauthRoleName": "amplify-gamestore-prod-144118-unauthRole",
+            "StackName": "amplify-gamestore-prod-144118",
+            "StackId": "arn:aws:cloudformation:us-east-2:533879925785:stack/amplify-gamestore-prod-144118/f17e27a0-7a28-11ec-922f-02261dac6e7c",
+            "AmplifyAppId": "d32ugp3eljoj7m"
+        },
+        "categories": {
+            "auth": {
+                "gamestore2b18cc34": {}
+            }
+        }
+    }
+}
