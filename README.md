@@ -11,12 +11,7 @@ Welcome to the GitHub repository for GameStore, an online store for purchasing a
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [License](#license)
+
 
 ## Features
 
@@ -34,14 +29,4 @@ Welcome to the GitHub repository for GameStore, an online store for purchasing a
 - AWS Amplify
 - (Add any other technologies or libraries you used in the project)
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory using the terminal or command prompt.
-3. Install the required dependencies using the following command:
-
-```bash
-npm install
 
